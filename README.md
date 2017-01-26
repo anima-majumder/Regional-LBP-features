@@ -12,8 +12,7 @@ This code extracts 236 dimensional LBP feature vector from a face image.
 Reference
 =========
 
-Automatic Facial Expression Recognition System Using Deep Network-Based Data Fusion, 
-A Majumder, L Behera, VK Subramanian, IEEE Transactions on Cybernet
+Automatic Facial Expression Recognition System Using Deep Network-Based Data Fusion, A Majumder, L Behera, VK Subramanian, IEEE Transactions on Cybernet
 
 Availability
 ============
